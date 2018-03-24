@@ -9,6 +9,15 @@ I found this via [a raspberrypi.stackexchange.com answer](http://raspberrypi.sta
 [The script was taken from here](https://www.raspberrypi.org/forums/viewtopic.php?p=638345#p638345), a post from `Mon Nov 10, 2014 7:05 am`.
 I copied the attached file on `Wed Feb 01, 2017` to this git repository.
 
+## Example of Installation
+`cd ~`
+
+`git clone https://github.com/agtugo/bkup_rpimage/ bkup_rpimage`
+
+`chmod +x bkup_rpimage/bkup_rpimage.sh`
+
+`sudo cp bkup_rpimage/bkup_rpimage.sh /usr/bin/` 
+
 
 ## Usage 
 From Jinx and corrected the mistake of using rsync instead of start in the examples
