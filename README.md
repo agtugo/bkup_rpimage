@@ -10,7 +10,8 @@ I found this via [a raspberrypi.stackexchange.com answer](http://raspberrypi.sta
 I copied the attached file on `Wed Feb 01, 2017` to this git repository.
 
 
-##Usage from Jinx and corrected the mistake of using rsync instead of start in the examples
+## Usage 
+From Jinx and corrected the mistake of using rsync instead of start in the examples
 
 bkup_rpimage.sh v1.0 by jinx
 
